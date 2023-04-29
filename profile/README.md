@@ -3,10 +3,10 @@ A place where cool stuff happens.
 </a>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
-    <a href="https://github.com/v3xlabs/ens-tools"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
-    <a href="https://github.com/v3xlabs/ens-tools"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
-    <a href="https://github.com/v3xlabs/ens-tools"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
-    <a href="https://github.com/v3xlabs/ens-tools"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
-    <a href="https://github.com/v3xlabs/ens-tools"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
-    <a href="https://github.com/v3xlabs/ens-tools"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
+    <a href="https://github.com/v3xlabs/ens-tools#1"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
+    <a href="https://github.com/v3xlabs/ens-tools#1"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
+    <a href="https://github.com/v3xlabs/ens-tools#1"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
+    <a href="https://github.com/v3xlabs/ens-tools#1"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
+    <a href="https://github.com/v3xlabs/ens-tools#1"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
+    <a href="https://github.com/v3xlabs/ens-tools#1"><img src="/projects/ens-tools.png" style="width: 33%" /></a>
 </div>
