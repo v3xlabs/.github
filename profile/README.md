@@ -1,12 +1,9 @@
-<code>
-    <center><b>Empowering open-source</b></center>
-    <center><a target="_blank" href="https://v3x.company?ref=github-readme">v3x.company</a></center>
-</code>
-
-
-## Projects
-
-Some of the random open-source we have worked on:
+<pre align="center">
+    <br />
+    <b>Empowering open-source</b>
+    <a target="_blank" href="https://v3x.company?ref=github-readme">v3x.company</a>
+    <br />
+</pre>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
     <a href="https://github.com/v3xlabs/ens-tools"><img src="/projects/ens-tools-small.png#1" style="width: 33%" /></a>
