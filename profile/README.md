@@ -9,10 +9,10 @@
 
 <table>
   <tr>
-    <td width="300px"><i>Web</i></td>
-    <td width="300px"><i>General</i></td>
-    <td width="300px"><i>Ethereum</i></td>
-    <td width="300px"><i>Self-Hosting</i></td>
+    <td width="212px"><i>Web</i></td>
+    <td width="212px"><i>General</i></td>
+    <td width="212px"><i>Ethereum</i></td>
+    <td width="212px"><i>Self-Hosting</i></td>
   </tr>
   <tr>
     <td valign="top">
