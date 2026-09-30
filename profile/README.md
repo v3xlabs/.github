@@ -40,7 +40,7 @@
       <a href="https://github.com/v3xlabs/edgeserver"><img src="../assets/icons/edgeserver.webp" height="16" alt=""> edgeserver</a><br>
       <a href="https://github.com/v3xlabs/v3x-property">📦 v3x-property</a><br>
       <a href="https://github.com/v3xlabs/eth-exporter">📊 eth-exporter</a><br>
-      <a href="https://github.com/v3xlabs/mission-control">🖥️ mission-control</a><br>
+      <a href="https://github.com/v3xlabs/missiond">🖥️ missiond</a><br>
       <a href="https://github.com/v3xlabs/dmn">📋 dmn</a><br>
       <a href="https://github.com/v3xlabs/openfm">🚗 openfm</a><br>
       <a href="https://github.com/v3xlabs/docker-dlp">🐋 docker-dlp</a><br>
